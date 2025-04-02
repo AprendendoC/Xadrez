@@ -1,5 +1,7 @@
 Simulação de Movimentação de Peças de Xadrez em C
 
+O nivel AVENTUREIRO foi adicionado ao nivel novato pois não foi necessario grandes mudanças no codigo e sim apenas adicionar o movimento do cavalo.
+
 Descrição do Projeto
 
 Este projeto implementa a movimentação de três peças de xadrez: Torre, Bispo e Rainha. Cada peça segue suas regras de movimentação específicas e utiliza diferentes estruturas de repetição em C (for, while, do-while) para simular seu deslocamento no tabuleiro.
@@ -19,3 +21,4 @@ Linguagem de programação C
 Compilador GCC ou outro compatível
 
 Ambiente de desenvolvimento como VS Code, Code::Blocks ou Terminal
+
